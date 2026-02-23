@@ -61,20 +61,21 @@ a.   KVL:
 
 b.  KCL:
 
-<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/8318c2d9-2448-4030-87d1-e2084e090898" />
-
+<img width="719" height="1112" alt="image" src="https://github.com/user-attachments/assets/6587cafc-e487-4ce6-9486-f288a4ef2007" />
 
 
 Tabulation:
 
 a.   KVL:
- <img width="494" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b8738bf-f111-4f31-a77c-be03991f6d0c" />
+
+<img width="1600" height="494" alt="image" src="https://github.com/user-attachments/assets/7e669831-3d37-4374-823c-4debb0a07c9d" />
 
 
 
 b.  KCL:
-<img width="430" height="1600" alt="image" src="https://github.com/user-attachments/assets/e2b7bc5c-c4ed-4d29-b38e-91182ee325f6" />
 
+
+![Uploading image.png…]()
 
 
 
