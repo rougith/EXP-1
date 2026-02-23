@@ -75,7 +75,8 @@ a.   KVL:
 b.  KCL:
 
 
-![Uploading image.png…]()
+<img width="1600" height="430" alt="image" src="https://github.com/user-attachments/assets/a9154ccc-22c8-4e8c-b1af-da628922ec40" />
+
 
 
 
