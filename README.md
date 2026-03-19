@@ -39,49 +39,38 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
-
 <img width="970" height="546" alt="image" src="https://github.com/user-attachments/assets/e9aefc91-9ab6-4682-aeb6-f856043e49e2" />
 
 CIRCUIT DIAGRAM:
-
 <img width="1228" height="658" alt="image" src="https://github.com/user-attachments/assets/1da7d78d-bc89-43d3-bd10-82cd2b749a24" />
 
 
 a.   KVL:
- 
-<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/f948cd9d-af8b-4b0d-8d1d-aeebe657b5a7" />
+ <img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/f948cd9d-af8b-4b0d-8d1d-aeebe657b5a7" />
 
 
 b.  KCL:
- 
-<img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/11f14706-a4d4-47b0-a72b-cb9c43746946" />
+ <img width="1600" height="721" alt="image" src="https://github.com/user-attachments/assets/11f14706-a4d4-47b0-a72b-cb9c43746946" />
 
 Calculation:
 
 a.   KVL:
-
-
- <img width="721" height="1600" alt="image" src="https://github.com/user-attachments/assets/0d5c924c-70cd-4da3-882a-5881c51ecb94" />
+<img width="721" height="1600" alt="image" src="https://github.com/user-attachments/assets/0d5c924c-70cd-4da3-882a-5881c51ecb94" />
 
 
 
 b.  KCL:
-
-
 <img width="719" height="1112" alt="image" src="https://github.com/user-attachments/assets/6587cafc-e487-4ce6-9486-f288a4ef2007" />
 
 
 Tabulation:
 
 a.   KVL:
-
 <img width="1600" height="494" alt="image" src="https://github.com/user-attachments/assets/7e669831-3d37-4374-823c-4debb0a07c9d" />
 
 
 
 b.  KCL:
-
-
 <img width="1600" height="430" alt="image" src="https://github.com/user-attachments/assets/a9154ccc-22c8-4e8c-b1af-da628922ec40" />
 
 
